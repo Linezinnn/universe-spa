@@ -1,0 +1,20 @@
+#explorer{
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+    padding: 0 10.2rem;
+}
+#explorer h1{
+    color: var(--white-200);
+    font-size: 4.8rem;
+    font-weight: 700;
+    line-height: 125%;
+}
+#explorer p{
+    color: var(--white-200);
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 160%;
+
+    max-width: 64.8rem;
+}
